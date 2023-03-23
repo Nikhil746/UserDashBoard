@@ -1,0 +1,8 @@
+export const SHOW_LIST = "SHOW_LIST";
+export const SHOW_ERROR = "SHOW_ERROR";
+export const SET_LOADING = "SET_LOADING";
+export const SET_USER_DATA = "SET_USER_DATA";
+export const FETCH_TOKEN_SUCCESS = "FETCH_TOKEN_SUCCESS";
+export const FETCH_TOKEN_GENERATE = "FETCH_TOKEN_GENERATE";
+export const SET_USER_LOGGED_OUT = "USER_LOGGED_OUT";
+export const SET_SNAKBAR = "SET_SNAKBAR";
