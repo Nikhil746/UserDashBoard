@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/UserDashBoard/static/css/main.e6c13ad2.css",
+    "main.js": "/UserDashBoard/static/js/main.69891782.js",
+    "static/css/40.287a32e0.chunk.css": "/UserDashBoard/static/css/40.287a32e0.chunk.css",
+    "static/js/40.62efd030.chunk.js": "/UserDashBoard/static/js/40.62efd030.chunk.js",
+    "static/css/606.287a32e0.chunk.css": "/UserDashBoard/static/css/606.287a32e0.chunk.css",
+    "static/js/606.4705f00f.chunk.js": "/UserDashBoard/static/js/606.4705f00f.chunk.js",
+    "static/css/114.287a32e0.chunk.css": "/UserDashBoard/static/css/114.287a32e0.chunk.css",
+    "static/js/114.3a3d925b.chunk.js": "/UserDashBoard/static/js/114.3a3d925b.chunk.js",
+    "static/js/498.9adcbee9.chunk.js": "/UserDashBoard/static/js/498.9adcbee9.chunk.js",
+    "static/js/652.8634cd5b.chunk.js": "/UserDashBoard/static/js/652.8634cd5b.chunk.js",
+    "static/js/151.ec44a1c9.chunk.js": "/UserDashBoard/static/js/151.ec44a1c9.chunk.js",
+    "static/js/787.7bb63699.chunk.js": "/UserDashBoard/static/js/787.7bb63699.chunk.js",
+    "index.html": "/UserDashBoard/index.html",
+    "main.e6c13ad2.css.map": "/UserDashBoard/static/css/main.e6c13ad2.css.map",
+    "main.69891782.js.map": "/UserDashBoard/static/js/main.69891782.js.map",
+    "40.287a32e0.chunk.css.map": "/UserDashBoard/static/css/40.287a32e0.chunk.css.map",
+    "40.62efd030.chunk.js.map": "/UserDashBoard/static/js/40.62efd030.chunk.js.map",
+    "606.287a32e0.chunk.css.map": "/UserDashBoard/static/css/606.287a32e0.chunk.css.map",
+    "606.4705f00f.chunk.js.map": "/UserDashBoard/static/js/606.4705f00f.chunk.js.map",
+    "114.287a32e0.chunk.css.map": "/UserDashBoard/static/css/114.287a32e0.chunk.css.map",
+    "114.3a3d925b.chunk.js.map": "/UserDashBoard/static/js/114.3a3d925b.chunk.js.map",
+    "498.9adcbee9.chunk.js.map": "/UserDashBoard/static/js/498.9adcbee9.chunk.js.map",
+    "652.8634cd5b.chunk.js.map": "/UserDashBoard/static/js/652.8634cd5b.chunk.js.map",
+    "151.ec44a1c9.chunk.js.map": "/UserDashBoard/static/js/151.ec44a1c9.chunk.js.map",
+    "787.7bb63699.chunk.js.map": "/UserDashBoard/static/js/787.7bb63699.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.69891782.js"
+  ]
+}
